@@ -1,6 +1,6 @@
 # Rubik-Game
 
-Java game project is a desktop project that used AWT library. Java awt library is used in the project.
+Java game project is a desktop project that used AWT library.
 The game is pretty simple. The game is won when all the boxes are of the same color.
 
 ### Game Starting Image
