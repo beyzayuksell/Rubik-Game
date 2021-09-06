@@ -10,3 +10,4 @@ The game is pretty simple. The game is won when all the boxes are of the same co
 ###Game Finishing Image
 
 ![](https://github.com/beyzayuksell/Rubik-Game/blob/main/Application_Images/rubicgame2.JPG)
+
